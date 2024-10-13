@@ -122,7 +122,6 @@ padding: 0;
 }
 
 .text-sm {
-    display: flexbox;
     width: 800px;
     height: 400px;
     margin-left: 35%;
